@@ -1,0 +1,58 @@
+[
+  {
+    "transaction_id": 1,
+    "user_id": 101,
+    "amount": 19.99,
+    "timestamp": "2024-01-01T10:00:05",
+    "event_type": "transaction",
+    "schema_version": 2
+  },
+  {
+    "transaction_id": 2,
+    "user_id": 102,
+    "amount": 250.5,
+    "timestamp": "2024-01-01T10:00:20",
+    "event_type": "transaction",
+    "schema_version": 2
+  },
+  {
+    "transaction_id": 5,
+    "user_id": 104,
+    "amount": 42.75,
+    "timestamp": "2024-01-01T10:02:45",
+    "event_type": "transaction",
+    "schema_version": 2
+  },
+  {
+    "transaction_id": 7,
+    "user_id": 105,
+    "amount": 310.0,
+    "timestamp": "2024-01-01T10:04:10",
+    "event_type": "transaction",
+    "schema_version": 2
+  },
+  {
+    "transaction_id": 8,
+    "user_id": 101,
+    "amount": 12.99,
+    "timestamp": "2024-01-01T10:05:00",
+    "event_type": "transaction",
+    "schema_version": 2
+  },
+  {
+    "transaction_id": 10,
+    "user_id": 104,
+    "amount": 199.99,
+    "timestamp": "2024-01-01T10:06:15",
+    "event_type": "transaction",
+    "schema_version": 2
+  },
+  {
+    "transaction_id": 2,
+    "user_id": 102,
+    "amount": 250.5,
+    "timestamp": "2024-01-01T10:00:20",
+    "event_type": "transaction",
+    "schema_version": 2
+  }
+]
